@@ -1,0 +1,14 @@
+D:\STUDY\SUMMER 2021\PRN292\Project\TheRevision\TheRevision\bin\TheRevision.dll.config
+D:\STUDY\SUMMER 2021\PRN292\Project\TheRevision\TheRevision\bin\TheRevision.dll
+D:\STUDY\SUMMER 2021\PRN292\Project\TheRevision\TheRevision\bin\TheRevision.pdb
+D:\STUDY\SUMMER 2021\PRN292\Project\TheRevision\TheRevision\obj\Debug\TheRevision.csprojAssemblyReference.cache
+D:\STUDY\SUMMER 2021\PRN292\Project\TheRevision\TheRevision\obj\Debug\TheRevision.csproj.CoreCompileInputs.cache
+D:\STUDY\SUMMER 2021\PRN292\Project\TheRevision\TheRevision\obj\Debug\TheRevision.dll
+D:\STUDY\SUMMER 2021\PRN292\Project\TheRevision\TheRevision\obj\Debug\TheRevision.pdb
+D:\STUDY\SUMMER 2021\PRN292\Project\SE1432_Group4_FinalProject\TheRevision\obj\Debug\TheRevision.csprojAssemblyReference.cache
+D:\STUDY\SUMMER 2021\PRN292\Project\SE1432_Group4_FinalProject\TheRevision\obj\Debug\TheRevision.csproj.CoreCompileInputs.cache
+D:\STUDY\SUMMER 2021\PRN292\Project\SE1432_Group4_FinalProject\TheRevision\obj\Debug\TheRevision.dll
+D:\STUDY\SUMMER 2021\PRN292\Project\SE1432_Group4_FinalProject\TheRevision\obj\Debug\TheRevision.pdb
+D:\STUDY\SUMMER 2021\PRN292\Project\SE1432_Group4_FinalProject\TheRevision\bin\TheRevision.dll.config
+D:\STUDY\SUMMER 2021\PRN292\Project\SE1432_Group4_FinalProject\TheRevision\bin\TheRevision.dll
+D:\STUDY\SUMMER 2021\PRN292\Project\SE1432_Group4_FinalProject\TheRevision\bin\TheRevision.pdb

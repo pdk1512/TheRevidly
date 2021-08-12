@@ -1,0 +1,55 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Skeleton.master.cs" Inherits="TheRevision.Skeleton" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link rel='stylesheet' type='text/css' href='myStyle.css'>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class='container'>
+            <div class='menu'>
+                <!--container>menu>logo-->
+                <div class='logo'>
+                    <img src="/images/logo.jpg" alt="My logo">
+                </div>
+                <!--container>menu>item-->
+                <div class='item'>
+                    <h1>SHARE YOUR EXPERIENCES &#128151</h1>
+                    <ul>
+                        <li>
+                            <a href="Home.aspx">HOME</a>
+                        </li>
+                        <li>
+                            <a href="Review.aspx">REVIEWS</a>
+                            <p>See another reviews!</p>
+                        </li>
+                        <li>
+                            <a href="CreateEvaluate.aspx">POST</a>
+                            <p>Post your review here!</p>
+                        </li>
+                        <li>
+                            <a href="User.aspx">YOUR POST</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class='banner'>
+            </div>
+        </div>
+        <div class="content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        </div>
+        <div class="footer">
+            <div class="author">Author: SE1432_Group4</div>
+            <div class="create">@All Rights Reversed. The Review Design By: khanhpd</div>
+        </div>
+    </form>
+</body>
+</html>
